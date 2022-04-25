@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957230751216",
+    "firebase_url": "https://mindnote-d2303-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mindnote-d2303",
+    "storage_bucket": "mindnote-d2303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957230751216:android:87ecaf0a81e6a622301135",
+        "android_client_info": {
+          "package_name": "com.example.mindnote_mobiledevproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957230751216-snmfigr5alhf2n0fo3dcj5j8j149dh1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsoQNkMQbxsKgsaycCJUfxyWyBu-laDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957230751216-snmfigr5alhf2n0fo3dcj5j8j149dh1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
