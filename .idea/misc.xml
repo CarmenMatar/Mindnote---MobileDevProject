@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/drawable/custom_shapes.xml" value="0.1955" />
+        <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/drawable/custom_shapes_circle_1.xml" value="0.1955" />
+        <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/drawable/custom_shapes_circle_2.xml" value="0.1955" />
+        <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/drawable/custom_shapes_circle_3.xml" value="0.1955" />
+        <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/drawable/custom_shapes_circle_4.xml" value="0.1955" />
+        <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/carme/AndroidStudioProjects/Mindnote - MobileDevProject/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
       </map>
     </option>
