@@ -55,7 +55,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.235"
-        app:srcCompat="@drawable/Mindnote" />
+        app:srcCompat="@drawable/mindnote" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/Email"
@@ -69,7 +69,7 @@
         app:layout_constraintVertical_bias="0.426" />
 
     <com.google.android.material.textfield.TextInputEditText
-        android:id="@+id/Email"
+        android:id="@+id/EmailLogin"
         android:layout_width="270dp"
         android:layout_height="48dp"
         android:text="Email"
@@ -93,7 +93,7 @@
         app:layout_constraintVertical_bias="0.543" />
 
     <com.google.android.material.textfield.TextInputEditText
-        android:id="@+id/Password"
+        android:id="@+id/Passwordlogin"
         android:layout_width="270dp"
         android:layout_height="48dp"
         android:text="Password"
@@ -106,7 +106,7 @@
         tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
-        android:id="@+id/containedButton"
+        android:id="@+id/Login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Login"

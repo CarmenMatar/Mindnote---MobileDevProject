@@ -56,7 +56,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.235"
-        app:srcCompat="@drawable/Mindnote" />
+        app:srcCompat="@drawable/mindnote" />
 
     <com.google.android.material.textfield.TextInputEditText
         android:id="@+id/Email"
@@ -155,7 +155,7 @@
         tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
-        android:id="@+id/containedButton"
+        android:id="@+id/LoginSignup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Login"
