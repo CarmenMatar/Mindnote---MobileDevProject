@@ -2,23 +2,24 @@ import java.util.ArrayList;
 
 public class exercises {
 
-    public Integer id;
+    public String id;
     public String name;
     public String Category;
     public String Type;
     public Integer timeNeeded;
     public String Day;
+    public String userId;
     public ArrayList<String> movement = new ArrayList<String>();
 
     public exercises() {
     }
 
-    public Integer getId() {
+    public String getId() {
         return id;
     }
 
     public void setId(Integer id) {
-        this.id = id;
+        id = id;
     }
 
     public String getName() {

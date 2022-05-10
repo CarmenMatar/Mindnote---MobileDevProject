@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class meals {
 
-    public Integer id;
+    public String id;
     public String Title;
     public ArrayList<String> ingredients = new ArrayList<String>();
     public String Day;
@@ -10,16 +10,17 @@ public class meals {
     public Integer prepTime;
     public String Image;
     public String Type;
+    public String userId;
 
     public meals() {
     }
 
-    public Integer getId() {
+    public String getId() {
         return id;
     }
 
     public void setId(Integer id) {
-        this.id = id;
+        id = id;
     }
 
     public String getTitle() {

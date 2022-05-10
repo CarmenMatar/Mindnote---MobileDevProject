@@ -8,6 +8,7 @@ public class journal {
     public String Image;
     public String beginSleep;
     public String endSleep;
+    public String userId;
 
     public journal() {
     }
