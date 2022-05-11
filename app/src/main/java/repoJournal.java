@@ -5,15 +5,15 @@ import com.google.firebase.firestore.Query;
 import java.util.HashMap;
 import java.util.Map;
 
-public class repoJournal {
+public class repoJournal extends journal{
 
     FirebaseFirestore firebaseFirestore;
 
     public void createJournal() {
             Map<String, Object> journal = new HashMap<>();
-            journal.put("", );
-            journal.put("", );
-            journal.put("", );
+           // journal.put("", );
+            //journal.put("", );
+           // journal.put("", );
     }
 
     public void readJournal(String email) {

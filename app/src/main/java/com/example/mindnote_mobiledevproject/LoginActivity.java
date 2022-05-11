@@ -50,7 +50,7 @@ public class LoginActivity extends AppCompatActivity {
                 signIn(Email.getText().toString(),Password.getText().toString());
             });
         signupButton.setOnClickListener(view -> {
-            startActivity(new Intent(LoginActivity.this , SignupActivity.class));
+            startActivity(new Intent(LoginActivity.this , ContinueRegistration.class));
         });
     }
     @Override

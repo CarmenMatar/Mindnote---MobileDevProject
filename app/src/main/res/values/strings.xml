@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Mindnote - MobileDevProject</string>
+    <string name="app_name">Mindnote</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="meals">Meal Preps</string>
+    <string name="gym">Gym Zone</string>
+    <string name="mind">Mind Map</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
 </resources>

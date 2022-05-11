@@ -103,7 +103,7 @@ public class SignupActivity extends AppCompatActivity {
     private void saveUserFirestore(String email, String password,String uid)
     {
         SharedPreferences.Editor editor = sharedPreferences.edit();
-        // Create a new user with a first and last name
+        // Create a new user with an email
         Map<String, Object> user = new HashMap<>();
         user.put("email", email);
         user.put("password", password);

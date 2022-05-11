@@ -8,6 +8,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MindnoteMobileDevProject">
         <activity
+            android:name=".ContinueRegistration"
+            android:exported="false" />
+        <activity
             android:name=".SignupActivity"
             android:exported="false" />
         <activity
@@ -19,10 +22,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".MainActivity"
-            android:exported="false"/>
+            android:exported="false" />
     </application>
 
 </manifest>

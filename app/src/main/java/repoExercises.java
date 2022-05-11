@@ -8,16 +8,18 @@ import com.google.firebase.firestore.Query;
 import java.util.HashMap;
 import java.util.Map;
 
-public class repoExercises {
+public class repoExercises extends exercises{
 
 
     FirebaseFirestore firebaseFirestore;
     String userId;
     SharedPreferences sharedPreferences;
 
-    public String getUserId () {
-        sharedPreferences = PreferenceManager.getDefaultSharedPreferences();
-    }
+   // public String getUserId () {
+       // String uid;
+        //sharedPreferences = PreferenceManager.getDefaultSharedPreferences();
+     //   return uid;
+   // }
 
 
     public void createExercise (String id, String name, String Category) {

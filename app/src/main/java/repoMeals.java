@@ -5,15 +5,15 @@ import com.google.firebase.firestore.Query;
 import java.util.HashMap;
 import java.util.Map;
 
-public class repoMeals {
+public class repoMeals extends meals{
 
     FirebaseFirestore firebaseFirestore;
 
     public void createMeal(){
         Map<String, Object> meal = new HashMap<>();
-        meal.put("", );
-        meal.put("", );
-        meal.put("", );
+       // meal.put("", );
+        //meal.put("", );
+      //  meal.put("", );
     }
 
     public void readMeal(String email) {
